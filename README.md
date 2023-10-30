@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shofinew
+##- 👋 Hi, I’m @shofinew
 - 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ...JavaScript
 - 💞️ I’m looking to collaborate on ...
