@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @shofinew
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ...JavaScript
+- 🌱 I’m currently learning ...PHP, mysql
 - 💞️ I’m looking to collaborate on ...practicing programming...
 - 📫 How to reach me ...on Github
 
